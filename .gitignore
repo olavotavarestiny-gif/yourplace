@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.DS_Store
+.env*
+*.tsbuildinfo
+artifacts/
+
+# Local hosting and design workspace
+.vercel/
+reference/
+
+# Optional configuration template
+!.env.example
